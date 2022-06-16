@@ -1,6 +1,6 @@
 {
   "name": "@alenosmanovic91x/angularx-social-login-ws",
-  "version": "1.0.2-beta",
+  "version": "1.0.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
