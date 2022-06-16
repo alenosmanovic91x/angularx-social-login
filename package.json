@@ -62,5 +62,33 @@
   },
   "lint-staged": {
     "*.js": "npm run lint -- --cache --fix"
-  }
+  },
+  "description": "> Use [Discussions](https://github.com/alenosmanovic91x/angularx-social-login/discussions) for questions.",
+  "main": "./src/main.ts",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenosmanovic91x/angularx-social-login.git"
+  },
+  "keywords": [
+    "angular",
+    "social",
+    "login",
+    "angular",
+    "14",
+    "google",
+    "login",
+    "facebook",
+    "login",
+    "linkedin",
+    "login"
+  ],
+  "author": "Alen Osmanovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alenosmanovic91x/angularx-social-login/issues"
+  },
+  "homepage": "https://github.com/alenosmanovic91x/angularx-social-login#readme"
 }
