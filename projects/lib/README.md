@@ -1,8 +1,6 @@
 # Angular Social Login
 
-> Use [Discussions](https://github.com/alenosmanovic91x/angularx-social-login/discussions) for questions.
-
-Social login and authentication module for Angular 13. Supports authentication with **Google**, **Facebook**, **Amazon**, **Microsoft**, and **VK** out of the box. Can be extended to other providers also.
+Social login and authentication module for Angular 14. Supports authentication with **Google**, **Facebook**, **Amazon**, **Microsoft**, and **VK** out of the box. Can be extended to other providers also.
 
 Check out the [demo](https://alenosmanovic91x.github.io/angularx-social-login/).
 
